@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/117303543/231263877-600275dc-bc41-4aab-b638-471ecbf20c30.png)" width="1000"/>
+  <img src="./assets/Phoenix-ceri%20Banner.png" width="1000" height="auto"/>
 </p>
 <br />
 
@@ -11,6 +11,7 @@
 - ⚡ Fun fact: Opossums are my favorite animal. 
 -<br />
 ###Things I Use 
+<br />
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
