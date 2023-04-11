@@ -3,7 +3,8 @@
 </p>
 <br />
 
-###About Me
+### About Me
+- Name: Phoenix-Ceri Powell
 - 😄 Pronouns: | She | Her | They | Them |
 - 🔭 I’m currently working on personal projects and refining my skills
 - 🌱 I’m currently learning Python & C++
@@ -11,7 +12,7 @@
 - ⚡ Fun fact: Opossums are my favorite animal. 
 <br />
 
-###Things I Use 
+## Things I Use 
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
