@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Phoenix-ceri Banner](https://user-images.githubusercontent.com/117303543/231263033-c9412e31-ff03-45a4-9dea-24badae170f1.png)" />
+  <img src="![Phoenix-ceri Banner](./assets/Phoenix-ceri%20Banner.png)" />
 </p>
 <br />
 
