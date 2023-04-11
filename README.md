@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Phoenix-ceri Banner](./assets/Phoenix-ceri%20Banner.png)" />
+  <img src="![image](https://user-images.githubusercontent.com/117303543/231263877-600275dc-bc41-4aab-b638-471ecbf20c30.png)" />
 </p>
 <br />
 
@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Python & C++
 - 📫 How to reach me: phoenixceri@protonmail.com
 - ⚡ Fun fact: Opossums are my favorite animal. 
+-<br />
 ###Things I Use 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
